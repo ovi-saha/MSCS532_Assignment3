@@ -5,4 +5,4 @@ For Part 1 of this assignment run the **det_quick_sort.py** and **rand_quick_sor
 # For part 2 
 I did chaining for the hash table which can minimize the collision. To perform this run the **hash.py** code and it will give an output with insert, delete and serach.
 # Analysis
-Assignment3.docs file is the analysis report
+**Assignment3.docx** file is the analysis report
